@@ -1,4 +1,3 @@
-
 from imu_model.imu import IMU
 from imu_model.sensors import Accelerometer, Gyroscope
 from imu_model.noise import *
