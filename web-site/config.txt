@@ -1,0 +1,2 @@
+D:\python\python.exe
+F:\imu_simulation-master\main.py
